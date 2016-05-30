@@ -37,6 +37,7 @@ p {
 }
 .sector .bg_blue {
   background-color: blue;
+  text-align: center;
 }
 .sector .bg_red {
   background-color: red;
